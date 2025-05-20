@@ -17,3 +17,5 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
     <input type="email" name="email" placeholder=tu.email@ejemplo.com required>
     <button type="submit">Enviar Email</button>
 </form>
+
+<!-- Segundo commit donde iría la documentación del código -->
